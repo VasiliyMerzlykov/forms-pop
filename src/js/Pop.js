@@ -1,3 +1,4 @@
+/* eslint-disable */
 export default class PopOver {
   constructor(parentElement, header, content) {
     this.parentElement = parentElement;
